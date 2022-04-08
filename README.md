@@ -13,6 +13,8 @@
 
 <img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
+<br />
+<br />
 
 ### Languages and Tools:
 
