@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nazeef-suleman-738988236/)
+
+(./img/linkedin-light.svg)](https://www.linkedin.com/in/nazeef-suleman-738988236/)
 
 
 ### Languages and Tools:
