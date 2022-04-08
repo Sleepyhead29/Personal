@@ -11,7 +11,7 @@
 ### Connect with me:
 
 
-(./img/linkedin-light.svg)](https://www.linkedin.com/in/nazeef-suleman-738988236/)
+<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
 
 
 ### Languages and Tools:
