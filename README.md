@@ -6,7 +6,6 @@
 - 👯 I’m looking for a Front End development Internship
 - 🥅 2022 Goals: Learn more about full stack development
 - 🥊 Fun fact: I love Martial Arts and Reading
-- 😻
 
 ### Connect with me:
 
